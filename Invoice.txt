@@ -1,0 +1,5 @@
+Customer Name: Tlholo Mothogoane
+		Phone Number: 0764224847
+		PhysicalAddress: 96 Cassandra Ave
+		EmailAddress: mothogoane@gmail.com
+Outstanding amount: R10000.0
